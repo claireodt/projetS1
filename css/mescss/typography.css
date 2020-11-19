@@ -1,0 +1,17 @@
+    @import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,400;0,700;1,400;1,700&family=Montserrat:ital,wght@0,400;0,500;0,700;1,400&display=swap');
+
+    html {
+        font-size: 62.5%;
+    }
+
+    body {
+        font-family: Montserrat, sans-serif;
+        font-size: 1.6rem; /* équivaut à 16px */
+        line-height: 1.6;
+        margin: 0 20px;
+    }
+
+    a {
+        text-decoration: none;
+        color: #6E5A0E;
+    }
