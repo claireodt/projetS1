@@ -32,10 +32,32 @@
     /* MENU */
 
     .menu {
-        background-color: midnightblue;
+        background-color: grey;
         position: fixed;
         top: 0;
         left: 0;
         bottom: 0;
         right: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .menu ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        font-size: 3rem;
+        font-family: Karla, sans-serif;
+        font-weight: bold;
+        text-align: center;
+        line-height: 3rem;
+    }
+
+    .menu li {
+        margin-bottom: 40px;
+    }
+
+    .menu a {
+        color: #1A1A1A;
     }
