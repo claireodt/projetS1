@@ -1,0 +1,30 @@
+    body {
+        margin-left: 0;
+    }
+
+    header {
+        display:block;
+        background-color: white;
+        position: fixed;
+        left:0;
+        height: 7.3rem;
+        width: 100%;
+        box-shadow: 0 0 10px grey;
+    }
+
+    header>a>img {
+        display: inline-block;
+        position:relative;
+        left: 2.0rem;
+        top: 0.5rem;
+    }
+
+    header>a>h1 {
+        color: black;
+        padding: 0;
+        display: inline-block;
+        position:relative;
+        left: 3.0rem;
+        margin-block-start: 1rem;
+        margin-block-end: 0;
+    }
