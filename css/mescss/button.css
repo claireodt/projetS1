@@ -1,0 +1,14 @@
+    button {
+        display:block;
+        border: none;
+        font-size: 1.4rem;
+        color: white;
+        font-weight: bold;
+        text-align: center;
+        width: auto;
+        padding: 10px;
+        background-color: #2A49B7;
+        z-index: 9;
+        margin: -10px auto 20px auto;
+        position: relative;
+    }

@@ -8,10 +8,39 @@
         font-family: Montserrat, sans-serif;
         font-size: 1.6rem; /* équivaut à 16px */
         line-height: 1.6;
-        margin: 0 20px;
+        margin: 0;
     }
 
     a {
         text-decoration: none;
         color: #6E5A0E;
+    }
+
+    h2 {
+        font-size: 2.0rem;
+        color: black;
+        text-align: center;
+        width: 70%;
+        margin-top: -20px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 5px;
+        background-color: white;
+        box-shadow: 0 0 10px grey;
+        position: relative;
+        z-index: 9;
+    }
+
+    h3.alaune {
+        font-size: 1.8rem;
+        color: black;
+        text-align: center;
+        width: 30%;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 5px;
+        background-color: white;
+        box-shadow: 0 0 10px #c7c7c7;
+        position: relative;
+        z-index: 9;
     }
