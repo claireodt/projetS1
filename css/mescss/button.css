@@ -12,3 +12,11 @@
         margin: -10px auto 20px auto;
         position: relative;
     }
+
+    button.articlesuivant {
+            font-size: 1.8rem;
+            width: 70%;
+            margin: 0 auto 4.0rem auto;
+            padding: 2.0rem;
+            box-shadow: 0 0 10px #c7c7c7;
+    }

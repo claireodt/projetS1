@@ -18,9 +18,9 @@
 
     div.gauche {
         display:table-cell;
-        width: 55%;
+        width: 56%;
         vertical-align: center;
-        padding: 1.0rem;
+        padding: 1rem;
     }
 
     div.gauche p {
@@ -29,7 +29,7 @@
 
     div.droite {
         display:table-cell;
-        width: 45%;
+        width: 44%;
         vertical-align: center;
         padding: 1.0rem;
     }
