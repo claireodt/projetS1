@@ -1,0 +1,44 @@
+    footer>a>img {
+        display: block;
+        position: fixed;
+        right: 2rem;
+        bottom: 2rem;
+        z-index: 10;
+    }
+
+    footer {
+        box-shadow: 0 0 10px grey;
+        background-color: white;
+        font-size: 1.0rem;
+        line-height: 1.3rem;
+        padding-top: 0.5rem;
+        padding-bottom: 0.5rem;
+        padding-left: 1.0rem;
+    }
+
+    div.gauche {
+        display:table-cell;
+        width: 55%;
+        vertical-align: center;
+        padding: 1.0rem;
+    }
+
+    div.gauche p {
+        border-right: 1px solid black;
+    }
+
+    div.droite {
+        display:table-cell;
+        width: 45%;
+        vertical-align: center;
+        padding: 1.0rem;
+    }
+
+    footer p {
+        margin: 0;
+        padding: 0;
+    }
+
+    footer a {
+        font-weight: bold;
+    }
