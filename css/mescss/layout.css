@@ -190,15 +190,27 @@
 
     div.autresprojets {
         display: table;
+        margin-bottom: 30px;
     }
 
     div.autresprojets img {
         max-width: 60px;
         max-height: 60px;
-        margin-top: 20px;
+        margin-top: 40px;
+        margin-bottom: 10px;
+    }
+
+    div.autresprojets {
+        text-align: center;
+    }
+
+    div.autresprojets a {
+        color: #1A1A1A;
+        font-weight: normal;
     }
 
     div.colonne1, div.colonne2 {
         display: table-cell;
-        width: 50%;
+        width: 40%;
     }
+
