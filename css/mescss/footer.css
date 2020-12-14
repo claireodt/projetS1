@@ -26,9 +26,9 @@
         padding: 1rem;
     }
 
-    div.gauche p {
+    div.gauche {
         padding-right: 1.0rem;
-        border-right: 1px solid black;
+        vertical-align: center;
     }
 
     div.droite {
@@ -36,6 +36,7 @@
         width: 44%;
         vertical-align: center;
         padding: 1.0rem;
+        border-left: 1px solid black;
     }
 
     footer p {
