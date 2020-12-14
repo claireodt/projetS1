@@ -21,14 +21,9 @@
 
     div.gauche {
         display:table-cell;
-        width: 56%;
+        width: 50%;
         vertical-align: center;
         padding: 1rem;
-    }
-
-    div.gauche {
-        padding-right: 1.0rem;
-        vertical-align: center;
     }
 
     div.droite {
