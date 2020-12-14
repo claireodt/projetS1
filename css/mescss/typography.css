@@ -121,3 +121,17 @@
         content: "●"; color: #66AE7A;
         padding-right: 10px;
     }
+
+    p.apportscientifique {
+        display: block;
+        border-left: 2px solid #C56363;
+        padding-left: 20px;
+        font-style: italic;
+    }
+
+    p.apportscientifique::first-letter {
+        font-size: 2.5rem;
+        color: #C56363;
+        font-weight: bold;
+        line-height: 1.2;
+    }

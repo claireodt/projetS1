@@ -24,6 +24,7 @@
     }
 
     div.gauche p {
+        padding-right: 1.0rem;
         border-right: 1px solid black;
     }
 
